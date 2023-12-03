@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\esson\\repos\\ExceptionHandlingExercise\\ExceptionHandlingExercise\\ExceptionHandlingExercise.csproj": {}
+    "C:\\Users\\esson\\repos\\ExceptionHandlingExercise\\ExceptionHandlingExercise\\ExceptionHandlingExercise\\ExceptionHandlingExercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\esson\\repos\\ExceptionHandlingExercise\\ExceptionHandlingExercise\\ExceptionHandlingExercise.csproj": {
+    "C:\\Users\\esson\\repos\\ExceptionHandlingExercise\\ExceptionHandlingExercise\\ExceptionHandlingExercise\\ExceptionHandlingExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\esson\\repos\\ExceptionHandlingExercise\\ExceptionHandlingExercise\\ExceptionHandlingExercise.csproj",
+        "projectUniqueName": "C:\\Users\\esson\\repos\\ExceptionHandlingExercise\\ExceptionHandlingExercise\\ExceptionHandlingExercise\\ExceptionHandlingExercise.csproj",
         "projectName": "ExceptionHandlingExercise",
-        "projectPath": "C:\\Users\\esson\\repos\\ExceptionHandlingExercise\\ExceptionHandlingExercise\\ExceptionHandlingExercise.csproj",
+        "projectPath": "C:\\Users\\esson\\repos\\ExceptionHandlingExercise\\ExceptionHandlingExercise\\ExceptionHandlingExercise\\ExceptionHandlingExercise.csproj",
         "packagesPath": "C:\\Users\\esson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\esson\\repos\\ExceptionHandlingExercise\\ExceptionHandlingExercise\\obj\\",
+        "outputPath": "C:\\Users\\esson\\repos\\ExceptionHandlingExercise\\ExceptionHandlingExercise\\ExceptionHandlingExercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\esson\\AppData\\Roaming\\NuGet\\NuGet.Config",
